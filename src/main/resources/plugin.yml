@@ -1,0 +1,28 @@
+name: KomugiPVP
+version: '${project.version}'
+main: cx.myhome.u1lowisland.komugipvp.KomugiPVP
+api-version: 1.19
+authors: [ U1low ]
+description: PVP of KOMUGI
+commands:
+  mapregist:
+    aliases: [mr]
+    description: Gatide Egui Komandz
+  playmenu:
+    aliases: [pm]
+    description: sine
+  soundcheck:
+    aliases: [sc]
+    description: Destroy
+  getswords:
+    aliases: []
+    description: Gettor
+  gameabort:
+    aliases: [ag]
+    description: abort the game
+  getbigwheat:
+    aliases: []
+    description: gets big wheat
+  earnkill:
+    aliases: [ ]
+    description: gets big wheat
